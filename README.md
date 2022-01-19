@@ -17,3 +17,8 @@
 11. Por último, añadimos el proyecto a un repositorio en Github
 
 ## Repositorio [Github](https://github.com/phpcontrols/phpgrid-project-management) Original
+
+## Capturas de pantalla
+
+![Pantalla manager](img/page1.png)
+![Pantalla employee](img/page2.png)
