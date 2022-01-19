@@ -16,4 +16,4 @@
 10. Cómo tarea extra, hemos añadido un link a estilos de bootstrap en el head.php y personalizamos un poco el estilo de las tablas
 11. Por último, añadimos el proyecto a un repositorio en Github
 
-## Repositorio [Github](https://github.com/phpcontrols/phpgrid-project-management)
+## Repositorio [Github](https://github.com/phpcontrols/phpgrid-project-management) Original
