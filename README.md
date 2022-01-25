@@ -25,5 +25,8 @@
 
 ## Extra: pantalla de login que reconozca manager o employee y lo lleve a la página correspondiente
 
-Se cambia en el index los links por un botón que lleva al archivo de login
-Se recoge el código php que se ha visto en el proyecto php-sessions (todo explicado allí)
+Se cambia en el index los links por un botón que lleva al archivo de login.
+Se recoge el código php que se ha visto en el proyecto php-sessions (todo explicado allí) y se cambia para adecuarlo al manager y employee que tenemoas aquí como usuarios a logearse.
+Se ha estilado un poco el mini-formulario para centrarlo y darle color.
+
+![Pantalla Login](img/login_page.png)

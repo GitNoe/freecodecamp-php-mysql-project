@@ -5,7 +5,7 @@
     <title>My Simple Project Management | phpGrid</title>
     <style>
         .back{
-            background-color: rgba(0, 255, 255, 0.5);
+            background-color: #AFBED8;
         }
         .centered {
             margin: 0;
