@@ -32,7 +32,8 @@
 
     <div class="centered">
         <h1>My Simple Project Management</h1>
-        <a href="manager/clients.php" target="_new">Login as manager</a> | <a href="employee/tasks.php" target="_new">Login as employee</a>
+        <!-- <a href="manager/clients.php" target="_new">Login as manager</a> | <a href="employee/tasks.php" target="_new">Login as employee</a> -->
+        <button onclick="login.php"><a href="login.php">Login</a></button>
     </div>
 
     <div class="footer"><strong>Build-From-Scratch Series</strong> | phpGrid &copy; <?php echo date('Y'); ?>.</div>

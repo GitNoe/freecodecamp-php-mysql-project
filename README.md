@@ -22,3 +22,8 @@
 
 ![Pantalla manager](img/page1.png)
 ![Pantalla employee](img/page2.png)
+
+## Extra: pantalla de login que reconozca manager o employee y lo lleve a la página correspondiente
+
+Se cambia en el index los links por un botón que lleva al archivo de login
+Se recoge el código php que se ha visto en el proyecto php-sessions (todo explicado allí)
